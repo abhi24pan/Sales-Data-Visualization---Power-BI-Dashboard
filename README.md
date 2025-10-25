@@ -1,7 +1,7 @@
 
 > ## Task Overview
 >
-> This repository contains my submission for Task 2 of the Data Analyst Internship challenge – focused on data visualization and storytelling.
+> This repository is my Project 2 of the Data Analyst in this i analysised a sales data – focused on data visualization and storytelling.
 >
 > ### 🔧 Tools Used
 >
